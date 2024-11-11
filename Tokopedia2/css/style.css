@@ -1,0 +1,111 @@
+/* style trend */
+.trending {
+    padding: 8px 32px;
+    position: relative;
+    top: 180px;
+}
+
+.trending span {
+    font-size: 15px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: rgba(49, 53, 59, 0.12) 0px 1px 6px 0px;
+}
+
+.box .wrap-img-trend{
+    width: 30%;
+    height: 100px;
+}
+
+
+/* style pencarian */
+
+.pencarian {
+    padding: 8px 4px;
+    position: relative;
+    top: 50px;
+
+}
+
+.pencarian span {
+  padding: 8px 8px;
+}
+
+.badge-pill{
+   padding: 4px 2px;
+}
+
+/* style wrap affix */
+
+/* .wrap-affix {
+    position: relative;
+    top: 60px;
+    padding: 8px 4px;
+}
+
+.bg-affix1 {
+    background: rgb(184, 116, 0);
+    background: linear-gradient(90deg, rgb(196, 126, 5) 0%,
+    rgb(250, 193, 34) 100%);
+}
+
+.bg-affix2 {
+    background: rgb(13, 76, 3);
+    background: linear-gradient(90deg, rgb(86, 133, 6) 0%,
+    rgb(117, 197, 13) 100%);
+}
+.bg-affix3 {
+    background: rgb(95, 2, 30);
+    background: linear-gradient(90deg, rgb(168, 3, 69) 0%,
+    rgb(218, 48, 114) 100%);
+}
+
+.bg-affix4 {
+    background: rgb(2, 14, 92);
+    background: linear-gradient(90deg, rgb(5, 8, 161) 0%,
+    rgb(25, 19, 200) 100%);
+}
+
+.box-affix {
+    display: inline-block;
+    width: 216px;
+    height: 64px;
+    padding: 6px 8px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 8px;
+    color: #fff; */
+/* } */
+
+.line1 {
+    background-color: #fff;
+    height: 4px;
+    width: 40px;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+/* .box1 {
+    position: absolute;
+    left: 0;
+    top: 910px;
+    padding: 7px 100% 0 100%;
+    background-color: #cdcdcd;
+} */
+
+.card {
+    box-shadow: rgba(49, 53, 59, 0.12) 0px 1px 6px 0px;
+    border-radius: 12px;
+}
+
+.card-body {
+    padding: 10px;
+}
